@@ -1,4 +1,11 @@
-# What
+# How to run
+
+```
+npm i
+npm run dev
+```
+
+# What happens
 
 react-refresh leaks FiberRootNodes from secondary renderers.
 
@@ -17,9 +24,3 @@ In production build (the last value is still retained somehow, but that might be
 
 <img width="1461" height="436" alt="Screenshot 2026-04-30 at 12 32 24 PM" src="https://github.com/user-attachments/assets/e035655c-3342-4b5d-a13f-ea9a36383359" />
 
-# How to run
-
-```
-npm i
-npm run dev
-```
