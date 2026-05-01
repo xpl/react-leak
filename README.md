@@ -19,6 +19,7 @@ After pressing "Collect garbage" button in Devtools:
 
 <img width="1450" height="575" alt="Screenshot 2026-04-30 at 12 25 56 PM" src="https://github.com/user-attachments/assets/ccfda8d2-87a0-4ef4-b5a2-7041c469a1cb" />
 
+---
 
 In production build (note the last value is still retained, [but that is a separate issue in R3F that I have investigated and reported](https://github.com/pmndrs/react-three-fiber/pull/3747)):
 
