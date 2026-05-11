@@ -25,3 +25,7 @@ In production build (note the last value is still retained, [but that is a separ
 
 <img width="1461" height="436" alt="Screenshot 2026-04-30 at 12 32 24 PM" src="https://github.com/user-attachments/assets/e035655c-3342-4b5d-a13f-ea9a36383359" />
 
+# Bug report
+
+https://github.com/facebook/react/issues/36379
+
